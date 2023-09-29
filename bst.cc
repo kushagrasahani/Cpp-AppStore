@@ -17,8 +17,8 @@ using namespace std;
 
 bst* append_bts_with_other(bst *root, bst *other) {
   if (root == NULL) {
-    root = other;
-    return root;
+      root = other;
+      return root;
   }
   if (strcmp(other->record.app_name, root->record.app_name) > 0) {
     root->right = append_bts_with_other(root->right, other);
