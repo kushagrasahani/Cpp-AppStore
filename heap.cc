@@ -12,14 +12,16 @@
 #include "bst.cc"
 using namespace std;
 
-float calculate_max(float *heap) {
+float calculate_max(float *heap) 
+{
   float max = heap[0];
   if (max < 0.01)
     max = 0.0;
   return max;
 }
 
-void max_heapify(float *heap, int ind, int size) {
+void max_heapify(float *heap, int ind, int size) 
+{
   int left_no_element = left(ind) - 1;
   int right_no_element = right(ind) - 1;
   ind--;
