@@ -1,9 +1,6 @@
 
 /*
  * bst.cc
- *
- *  Created on: Mar 10, 2021
- *      your implementation of the BST in the file bst.cc
  */
 
 #ifndef BST_H_
