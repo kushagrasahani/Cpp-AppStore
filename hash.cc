@@ -1,7 +1,6 @@
 /*
  * hash.cc
  *
- *  Created on: Mar 10, 2021
  *      your implementation of the hash table in the file hash.cc
  */
 
