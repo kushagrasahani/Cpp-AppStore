@@ -1,7 +1,6 @@
 /*
  * util.cc
  *
- *  Created on: Mar 10, 2021
  *      your implementation of any utility functions in the file util.cc.
  */
 
