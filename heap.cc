@@ -1,7 +1,6 @@
 /*
  * heap.cc
  *
- *  Created on: Mar 10, 2021
  *      your implementation of the max-heap in the file heap.cc,
  */
 #ifndef HEAP_H_
